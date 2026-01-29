@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_neuralnetwork_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_neuralnetwork" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="8,999,996 ps"></ZoomStartTime>
+      <ZoomEndTime time="9,000,001 ps"></ZoomEndTime>
+      <Cursor1Time time="9,000,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="230"></NameColumnWidth>
+      <ValueColumnWidth column_width="105"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="32" />
+   <wvobject fp_name="/tb_neuralnetwork/w1_1" type="array">
+      <obj_property name="ElementShortName">w1_1[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_1[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_2" type="array">
+      <obj_property name="ElementShortName">w1_2[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_2[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_3" type="array">
+      <obj_property name="ElementShortName">w1_3[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_3[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_4" type="array">
+      <obj_property name="ElementShortName">w1_4[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_4[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_5" type="array">
+      <obj_property name="ElementShortName">w1_5[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_5[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_6" type="array">
+      <obj_property name="ElementShortName">w1_6[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_6[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_7" type="array">
+      <obj_property name="ElementShortName">w1_7[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_7[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_8" type="array">
+      <obj_property name="ElementShortName">w1_8[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_8[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_9" type="array">
+      <obj_property name="ElementShortName">w1_9[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_9[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w1_10" type="array">
+      <obj_property name="ElementShortName">w1_10[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w1_10[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[0:823][31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[0:823][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_1" type="array">
+      <obj_property name="ElementShortName">w2_1[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_1[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_2" type="array">
+      <obj_property name="ElementShortName">w2_2[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_2[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_3" type="array">
+      <obj_property name="ElementShortName">w2_3[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_3[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_4" type="array">
+      <obj_property name="ElementShortName">w2_4[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_4[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_5" type="array">
+      <obj_property name="ElementShortName">w2_5[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_5[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_6" type="array">
+      <obj_property name="ElementShortName">w2_6[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_6[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_7" type="array">
+      <obj_property name="ElementShortName">w2_7[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_7[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_8" type="array">
+      <obj_property name="ElementShortName">w2_8[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_8[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_9" type="array">
+      <obj_property name="ElementShortName">w2_9[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_9[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/w2_10" type="array">
+      <obj_property name="ElementShortName">w2_10[0:49][31:0]</obj_property>
+      <obj_property name="ObjectShortName">w2_10[0:49][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/b1" type="array">
+      <obj_property name="ElementShortName">b1[0:9][31:0]</obj_property>
+      <obj_property name="ObjectShortName">b1[0:9][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/b2" type="array">
+      <obj_property name="ElementShortName">b2[0:9][63:0]</obj_property>
+      <obj_property name="ObjectShortName">b2[0:9][63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/neuralnet_out" type="array">
+      <obj_property name="ElementShortName">neuralnet_out[0:9][47:0]</obj_property>
+      <obj_property name="ObjectShortName">neuralnet_out[0:9][47:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER1_NEURON_WIDTH" type="array">
+      <obj_property name="ElementShortName">LAYER1_NEURON_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER1_NEURON_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER1_COUNTER_END" type="array">
+      <obj_property name="ElementShortName">LAYER1_COUNTER_END[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER1_COUNTER_END[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER1_BITS" type="array">
+      <obj_property name="ElementShortName">LAYER1_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER1_BITS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER2_NEURON_WIDTH" type="array">
+      <obj_property name="ElementShortName">LAYER2_NEURON_WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER2_NEURON_WIDTH[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER2_COUNTER_END" type="array">
+      <obj_property name="ElementShortName">LAYER2_COUNTER_END[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER2_COUNTER_END[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_neuralnetwork/LAYER2_BITS" type="array">
+      <obj_property name="ElementShortName">LAYER2_BITS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">LAYER2_BITS[31:0]</obj_property>
+   </wvobject>
+</wave_config>
