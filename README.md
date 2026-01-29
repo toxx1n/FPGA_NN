@@ -119,7 +119,6 @@ Review script comments for usage details.
 - Expand support for additional datasets and network architectures
 - Integrate automated deployment scripts
 - Add performance benchmarking and resource utilization reporting
-- Support fixed-point optimization and quantization methods
 
 ## Author
 
